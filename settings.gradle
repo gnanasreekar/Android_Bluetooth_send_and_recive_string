@@ -1,0 +1,2 @@
+rootProject.name='Android Bluetooth send and recive string'
+include ':app'
